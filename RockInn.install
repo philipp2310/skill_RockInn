@@ -1,0 +1,23 @@
+{
+    "name": "RockInn",
+    "version": "0.0.1",
+    "icon": "fab fa-battle-net",
+    "category": "undefined",
+    "author": "philipp2310",
+    "maintainers": [],
+    "desc": "Besucherz\u00e4hler rock inn",
+    "aliceMinVersion": "1.0.0-b1",
+    "systemRequirements": [
+        ""
+    ],
+    "pipRequirements": [
+        ""
+    ],
+    "conditions": {
+        "lang": [
+            "en",
+            "de"
+        ],
+        "asrArbitraryCapture": true
+    }
+}
