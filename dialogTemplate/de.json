@@ -1,7 +1,53 @@
 {
     "skill": "RockInn",
     "icon": "time",
-    "description": "Besucherz\u00e4hler rock inn",
+    "description": "Besucherzähler rock inn",
     "slotTypes": [],
-    "intents": []
+    "intents": [{
+        "name": "currentCounter",
+            "description":"Zähler Rockinn",
+            "enabledByDefault": true,
+            "utterances": [
+                "Wieviele Leute sind gerade im Rock Inn",
+                "Wie voll ist das Rock Inn gerade?",
+                "Wieviel Platz ist noch im Rock Inn?",
+                "Wie leer ist das Rock Inn?",
+                "Wieviel ist gerade im Rock Inn los?",
+                "Ist noch platz im Rock Inn?",
+                "Wie viel Platz ist gerade im Rock Inn?",
+
+                "Wieviele Leute sind gerade in der Kletterhalle",
+                "Wie voll ist die Kletterhalle gerade?",
+                "Wieviel Platz ist noch in der Kletterhalle?",
+                "Wie leer ist die Kletterhalle?",
+                "Wieviel ist gerade in der Kletterhalle los?",
+                "Ist noch platz in der Kletterhalle?",
+                "Wie viel Platz ist gerade in der Kletterhalle?",
+
+                "Wieviele Leute sind gerade klettern",
+                "Wie voll ist es beim klettern gerade?",
+                "Wieviel Platz ist noch beim klettern?",
+                "Wie leer ist es beim klettern?",
+                "Wieviel ist gerade beim klettern los?",
+                "Ist noch platz beim kelttern?",
+                "Wie viel Platz ist gerade beim klettern?",
+
+                "Wieviele Leute sind gerade bouldern",
+                "Wie voll ist es beim bouldern gerade?",
+                "Wieviel Platz ist noch beim bouldern?",
+                "Wie leer ist es beim bouldern?",
+                "Wieviel ist gerade beim bouldern los?",
+                "Ist noch platz beim bouldern?",
+                "Wie viel Platz ist gerade beim bouldern?",
+
+                "Wieviele Leute sind gerade in der Boulderhalle",
+                "Wie voll ist die Boulderhalle gerade?",
+                "Wieviel Platz ist noch in der Boulderhalle?",
+                "Wie leer ist die Boulderhalle?",
+                "Wieviel ist gerade in der Boulderhalle los?",
+                "Ist noch platz in der Boulderhalle?",
+                "Wie viel Platz ist gerade in der Boulderhalle?"
+            ]
+    }
+    ]
 }

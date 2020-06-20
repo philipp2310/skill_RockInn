@@ -1,1 +1,4 @@
-{}
+{
+	"current": ["Es sind gerade {} im Rock Inn!"],
+	"error": ["Ich konnte die aktuelle Besucherzahl nicht ermitteln."]
+}
